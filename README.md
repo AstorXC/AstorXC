@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Screenshot 2024-11-13 125031](https://github.com/user-attachments/assets/ab502b23-6ecc-4a88-a972-e046e9872365)
 
 <!--
 **AstorXC/AstorXC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
